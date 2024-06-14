@@ -1,0 +1,45 @@
+package com.example.data
+
+class Datasource {
+
+    val shapes = listOf(
+        Shape("Circle", isCircle = true),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Rectangle", isCircle = false),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true),
+        Shape("Circle", isCircle = true)
+    )
+}
